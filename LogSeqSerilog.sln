@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogSeqSerilog", "LogSeqSerilog\LogSeqSerilog.csproj", "{2E2B7A0D-A9F7-49DA-A931-B1AC64D60C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E2B7A0D-A9F7-49DA-A931-B1AC64D60C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2B7A0D-A9F7-49DA-A931-B1AC64D60C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2B7A0D-A9F7-49DA-A931-B1AC64D60C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2B7A0D-A9F7-49DA-A931-B1AC64D60C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23AA1D48-78B2-4298-844B-5B84F53CE32E}
+	EndGlobalSection
+EndGlobal
